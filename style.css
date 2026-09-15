@@ -58,7 +58,7 @@ header.scrolled {
     align-items: center;
 }
 .home-bg{
-    background-image: url(images/home-bg.png);
+    background-image: url("./images/home-bg.png");
     position: relative;
     min-height: 94vh;
     width: 100%;
